@@ -25,7 +25,7 @@ def start_cal():
         assert action == "+" or action=="-" or action=="*" or action=="/","not valid" 
 
     except AssertionError:
-        print("not valid")
+        print("not valid.......")
 
     if action == "+":
         print(addition(x,y))
