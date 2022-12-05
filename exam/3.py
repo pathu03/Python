@@ -8,6 +8,6 @@ print("b=",b)
 
 for i in range(len(a)):
     for j in range(len(b)):
-        z[i][j]=a[i][j] + b[i][j]
+        z[i][j]=a[i][j] * b[i][j]
 for x in z:
     print(x)

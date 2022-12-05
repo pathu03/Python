@@ -5,18 +5,18 @@ n2=input("what is their name?")
 combined=n1+n2
 lower_case=combined.lower()
 
-t=lower_case.count("t")
-r=lower_case.count("r")
-u=lower_case.count("u")
-e=lower_case.count("e")
+t=lower_case.count("r")
+r=lower_case.count("v")
+u=lower_case.count("a")
+e=lower_case.count("i")
 
 
-true=t+r+u+a+b+c
+true=t+r+u+e
 
 l=lower_case.count("l")
-o=lower_case.count("o")
-v=lower_case.count("v")
-e=lower_case.count("e")
+o=lower_case.count("a")
+v=lower_case.count("s")
+e=lower_case.count("n")
 
 love=l+o+v+e
 

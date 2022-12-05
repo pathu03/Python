@@ -3,7 +3,7 @@ class B:
         self.a=a
     def __mul__(self,other):
         return self.a/other.a
-a=B(6)
-b=B(3)
+a=B(int(input()))
+b=B(int(input()))
 z=a*b
 print(z)

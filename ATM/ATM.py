@@ -1,6 +1,3 @@
-
-
-
 print("enter your card")
 
 print("language")
